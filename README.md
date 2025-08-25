@@ -31,10 +31,10 @@ To run the program, execute the compiled file from your terminal:
 
 ```bash
 # On Linux or macOS
-./studentdb
+.\studentdb
 
 # On Windows
-.\studentdb.exe
+./studentdb.exe
 ```
 
 ## Usage
